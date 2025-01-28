@@ -23,4 +23,5 @@ while(j<n):
     # if(summ<=x):
     maxi=max(maxi,j-i+1)
     j+=1
+# print(maxi)
 print(maxi)
